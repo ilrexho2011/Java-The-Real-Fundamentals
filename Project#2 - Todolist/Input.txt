@@ -1,0 +1,3 @@
+Dance;Home Project;Open;2020-10-11
+Buy Groceries;Shopping;open;2020-10-12
+Book Laundry-slot;Home Project;Closed;2020-10-12
