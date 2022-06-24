@@ -2,7 +2,7 @@ package todolist;
 
 /***
  * Task class has the details of the TaskName, Project Name, Task Status and Task Date.
- * 
+ * AUTHOR IR ON T3500 WORKSTATION
  */
 import java.util.Comparator;
 import java.util.*;
