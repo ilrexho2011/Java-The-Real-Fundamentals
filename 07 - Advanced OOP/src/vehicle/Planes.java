@@ -5,7 +5,7 @@ package vehicle;
 
 /**
  * written 30.09.2020
- * @author T3500
+ * @author IR ON T3500 WORKSTATION
  */
 public class Planes extends Vehicle{
     public Boolean isFlying = false;
