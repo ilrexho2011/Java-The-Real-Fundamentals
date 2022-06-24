@@ -2,7 +2,8 @@ package todolist;
 
 /***
  * Tododemo Reads the inputfile text file. It Adds new Todo Task details to Arraylist. Edit 
- * Delete the existing Task details. Also Write back the details back to text file
+ * Delete the existing Task details. Also Write back the details to text file
+ * AUTHOR IR ON T3500 WORKSTATION
  */
 import java.io.BufferedWriter;
 
