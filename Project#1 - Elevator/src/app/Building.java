@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Manages the floors, elevators and elevatorController
+ * AUTHOR : IR ON T3500 WORKSTATION
  */
 public class Building {
 
