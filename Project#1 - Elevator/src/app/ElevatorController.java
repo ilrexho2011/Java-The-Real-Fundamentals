@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /**
  * ElevatorController class, it uses Singleton pattern
+ * CREATED BY IR ON T3500 WORKSTATION
  */
 public class ElevatorController {
 
