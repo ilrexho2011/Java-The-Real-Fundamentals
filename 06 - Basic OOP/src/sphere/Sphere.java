@@ -12,13 +12,13 @@ public class Sphere {
         this.radius = rad;
     }
 
-    // Calculate the diameter.
+    // Llogaritja e diametrit.
     public double getDiameter(int radius){
         diameter = 2 * radius;
         return diameter;
     }
     
-    // Calculate the circumference.
+    // Llogaritja e perimetrit.
     public double getCircumference(int radius){
         volume = 2 * Math.PI * radius;
         return volume;
@@ -30,13 +30,13 @@ public class Sphere {
         return surface;
     }
     
-    // Calculate the volume.
+    // Llogaritet volumi.
     public double getVolume(int radius){
         volume = Math.pow(radius,3)* Math.PI *(4.0/3.0);
         return volume;
     }
     
-    // Output the results of an concrete object calling methods
+    // Nxjerrja e rezultateve te metodave të thirrjes së një objekti konkret
     public static void main (String[] args)
     {
         Sphere sphere1 = new Sphere(4);
